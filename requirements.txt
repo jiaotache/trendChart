@@ -1,0 +1,11 @@
+pandas_datareader
+datetime
+bottleneck
+japanize_matplotlib
+matplotlib
+streamlit
+pandas
+plotly
+requests
+numpy
+hmac
